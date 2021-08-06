@@ -24,9 +24,11 @@ Data source:
 - __Deliverable 4:__ [Create the Movie Database](https://github.com/xenia-e/Movies-ETL/blob/main/ETL_create_database.ipynb)
 
 Two screenshots of exported SQL databases to confirm that the movies table has 6,052 rows and the rating table has 26,024,289 rows:
+
 ![Movies Database query and output](https://github.com/xenia-e/Movies-ETL/blob/main/Resources/movies_query.png) 
 
 >Screenshot 1 - Movies Database query and output
+
 
 ![Ratings Database query and output](https://github.com/xenia-e/Movies-ETL/blob/main/Resources/ratings_query.png)
 
